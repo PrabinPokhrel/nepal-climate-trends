@@ -1,0 +1,3 @@
+variable,trend,tau,pvalue,significant,slope_per_year,slope_per_decade,total_change
+Temperature (°C),increasing,0.3932,0.0002,True,0.02111,0.2111,0.908
+Precipitation (mm/mo),increasing,0.2431,0.0205,True,0.01126,0.1126,0.484

@@ -1,0 +1,5 @@
+season,mk_trend,mk_tau,mk_pvalue,significant,slope_per_year,slope_per_decade,mean_1980s,mean_2010s,mean_2020s
+Pre-monsoon (MAM),no trend,0.1649,0.1169,False,0.01435,0.1435,11.882,12.328,12.284
+Monsoon (JJAS),increasing,0.482,0.0,True,0.02153,0.2153,17.525,18.076,18.346
+Post-monsoon (ON),increasing,0.3784,0.0003,True,0.03571,0.3571,8.902,9.99,10.326
+Winter (DJF),no trend,0.186,0.0767,False,0.02134,0.2134,2.108,2.618,2.858
